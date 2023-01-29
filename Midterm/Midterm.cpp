@@ -1,4 +1,5 @@
 //นายณรงฤทธิ์ มูลเหลา 65543206054-0 sec 2
+//https://youtu.be/q9hkLQBSdxE
 #include <stdio.h>
 
 struct NumNode{
